@@ -46,6 +46,11 @@
   Detects anomalies in transaction patterns.
 
 ---
+## 🗣️ Chatbot Demo
+
+Built a Dialogflow-based conversational agent.  
+👉 [Try it out here](https://console.dialogflow.com/api-client/demo/embedded/bcecbfef-6abd-4b1b-b9a0-6640d963b265)
+
 
 ## 🧰 Tools & Tech Stack
 
