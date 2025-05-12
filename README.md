@@ -21,7 +21,7 @@
   - Containerization, CI/CD pipelines, model monitoring  
   - API development using FastAPI and deployment on AWS/GCP
 
-- **Biomedical & Diagnostic AI**  
+- **Diagnostic AI**  
   - Image segmentation and classification of cancer markers  
   - Diabetes risk and breast cancer prediction models
 
@@ -36,13 +36,13 @@
 - **[AI-Powered Healthcare Assistant (Gemini LLM)](./Largelanguagemodelproject.ipynb)**  
   Answering patient questions using LLM with domain context.
 
-- **[Cancer Marker Segmentation (CK8/18, Ki67)](./Segmentation_and_Analysis_of_CK8_18_and_Ki67_Markers_for_Cancer_Morphology_Evaluation20.ipynb)**  
+- **[Cancer Marker Segmentation (CK8/18, Ki67)](/Segmentation_and_Analysis_of_CK8_18_and_Ki67_Markers_for_Cancer_Morphology_Evaluation20.ipynb)**  
   Medical imaging project for tumor morphology analysis.
 
-- **[Course Recommendation System](./Recommendation_system.ipynb)**  
+- **[Course Recommendation System](/Recommendation_system.ipynb)**  
   Based on TF-IDF vectorization and cosine similarity.
 
-- **[Fraud Detection System](./Anomaly_Detection_in_card_fraud_detection.ipynb)**  
+- **[Fraud Detection System](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Anomaly_Detection_in_card_fraud_detection.ipynb))**  
   Detects anomalies in transaction patterns.
 
 ---
