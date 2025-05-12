@@ -2,7 +2,7 @@
 
 🎓 AI Engineer | Data Scientist | AI Researcher |Data Analyst
 🌍 Based in Lagos, Nigeria | ✉️ chinonsovictoria80@gmail.com  
-🔬 Passionate about building intelligent systems that enhance healthcare, automate decisions, and improve lives.
+🔬 Passionate about building intelligent systems that enhance healthcare, Finances,automate decisions, and improve lives.
 
 ---
 
@@ -67,9 +67,9 @@ Built a Dialogflow-based conversational agent.
 
 ✅ LLMs & Chatbot Development  
 ✅ AI Agents & Task Automation  
-✅ Biomedical Imaging & Diagnostic Models  
-✅ MLOps, Deployment & Monitoring  
-✅ AI for Social Good and Health Equity
+✅ Imaging & Diagnostic Models  
+✅ MLOps, Deployment & Monitoring 
+✅ Finance AI & AI for Social Good and Health Equity
 
 ---
 
