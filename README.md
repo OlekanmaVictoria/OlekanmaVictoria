@@ -46,7 +46,7 @@
   Detects anomalies in transaction patterns.
 
 - **[AI in Recruitment;Predictive Hiring Model](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Predictive_Hiring_Model.ipynb)**  
-  Detects anomalies in transaction patterns.
+ predict hiring decisions based on candidate attributes
   
 
 ---
