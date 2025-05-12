@@ -33,13 +33,13 @@
 
 ## 🚀 Selected Projects
 
-- **[AI-Powered Healthcare Assistant (Gemini LLM)](./Largelanguagemodelproject.ipynb)**  
+- **[AI-Powered Healthcare Assistant (Gemini LLM)](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Segmentation_and_Analysis_of_CK8_18_and_Ki67_Markers_for_Cancer_Morphology_Evaluation20.ipynb)**  
   Answering patient questions using LLM with domain context.
 
 - **[Cancer Marker Segmentation (CK8/18, Ki67)](/Segmentation_and_Analysis_of_CK8_18_and_Ki67_Markers_for_Cancer_Morphology_Evaluation20.ipynb)**  
   Medical imaging project for tumor morphology analysis.
 
-- **[Course Recommendation System](/Recommendation_system.ipynb)**  
+- **[Course Recommendation System](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Recommendation_system.ipynb)**  
   Based on TF-IDF vectorization and cosine similarity.
 
 - **[Fraud Detection System](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Anomaly_Detection_in_card_fraud_detection.ipynb))**  
