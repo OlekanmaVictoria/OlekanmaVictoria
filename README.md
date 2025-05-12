@@ -45,6 +45,9 @@
 - **[Fraud Detection System](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Anomaly_Detection_in_card_fraud_detection.ipynb))**  
   Detects anomalies in transaction patterns.
   
+  - **[AI in Recruitment;Predictive Hiring Model](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Predictive_Hiring_Model.ipynb)**  
+  Detects anomalies in transaction patterns.
+  
 
 ---
 ## 🗣️ Chatbot Demo
