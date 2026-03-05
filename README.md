@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Olekanma Chinonso Victoria
 
 🎓 AI Engineer | Data Scientist | AI Researcher |Data Analyst
-🌍 Based in Lagos, Nigeria | ✉️ chinonsovictoria80@gmail.com  
+🌍 Based in London, United Kingdom | ✉️ chinonsovictoria80@gmail.com  
 🔬 Passionate about building intelligent systems that enhance healthcare, Finances,automate decisions, and improve lives.
 
 ---
