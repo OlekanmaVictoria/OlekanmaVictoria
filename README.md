@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chinonso Victoria Olekanma
 
-🎓 Senior AI Engineer | LLM Systems | Agentic AI | Voice AI
+🎓 AI Engineer | LLM Systems | Agentic AI | Voice AI
 🌍 London, UK | ✉️ chinonsovictoria80@gmail.com
 🔬 Building production-grade AI systems for healthcare, 
    business automation, and intelligent workflow management.
