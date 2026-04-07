@@ -1,85 +1,180 @@
-# 👋 Hi, I'm Olekanma Chinonso Victoria
+# 👋 Hi, I'm Chinonso Victoria Olekanma
 
-🎓 AI Engineer | Data Scientist | AI Researcher |Data Analyst
-🌍 Based in London, United Kingdom | ✉️ chinonsovictoria80@gmail.com  
-🔬 Passionate about building intelligent systems that enhance healthcare, Finances,automate decisions, and improve lives.
+🎓 Senior AI Engineer | LLM Systems | Agentic AI | Voice AI
+🌍 London, UK | ✉️ chinonsovictoria80@gmail.com
+🔬 Building production-grade AI systems for healthcare, 
+   business automation, and intelligent workflow management.
+📚 MSc Artificial Intelligence — Northumbria University London
 
 ---
 
 ## 🧠 Areas of Expertise
 
-- **Large Language Models (LLMs)**  
-  - Developed a Gemini-based AI healthcare assistant  
-  - Skilled in prompt engineering, RAG, and fine-tuning  
-  - Exploring context-aware agents and multi-step reasoning
+- **LLM Engineering & Agentic AI**
+  Production LLM systems, RAG pipelines, multi-agent 
+  orchestration, prompt engineering, evaluation frameworks
 
-- **Agentic AI & Autonomous Systems**  
-  - Building LLM agents for data analysis and task automation  
-  - Experimenting with memory management, planning, and tool use
+- **Healthcare AI**
+  Clinical transcription, adaptive clinical simulation,
+  patient-facing conversational AI, safety guardrails,
+  GDPR-compliant data handling
 
-- **MLOps & Scalable Deployment**  
-  - Containerization, CI/CD pipelines, model monitoring  
-  - API development using FastAPI and deployment on AWS/GCP
+- **Voice AI & Real-Time Systems**
+  STT/TTS pipelines, Whisper, Coqui TTS, HiFi-GAN,
+  low-latency streaming audio
 
-- **Diagnostic AI**  
-  - Image segmentation and classification of cancer markers  
-  - Diabetes risk and breast cancer prediction models
+- **MLOps & Production Deployment**
+  FastAPI, Docker, CI/CD, AWS, Azure, monitoring,
+  evaluation pipelines
 
-- **Conversational AI & Chatbots**  
-  - Designing LLM-based conversational agents for healthcare, education, and customer support  
-  - Proficient with LangChain, Streamlit, and integration into real-time workflows
+- **Business Automation**
+  Microsoft Copilot Studio, Power Automate, Make,
+  Zapier, CRM integrations, workflow automation
+
+---
+
+## 🚀 Production Projects
+
+### 🏥 Clinical AI Transcriber — MAP Systems (Production)
+Real-time doctor-patient consultation transcription
+generating structured SOAP clinical notes automatically.
+Built for a Canadian healthtech company — running in production.
+**Stack:** Python · OpenAI Whisper · GPT-4 · FastAPI · MongoDB
 
 ---
 
-## 🚀 Selected Projects
-
-- **[AI-Powered Healthcare Assistant (Gemini LLM)](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Largelanguagemodelproject.ipynb)**  
-  Answering patient questions using LLM with domain context.
-
-- **[Cancer Marker Segmentation (CK8/18, Ki67)](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Segmentation_and_Analysis_of_CK8_18_and_Ki67_Markers_for_Cancer_Morphology_Evaluation20.ipynb)**  
-  Medical imaging project for tumor morphology analysis.
-
-- **[Course Recommendation System](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Recommendation_system.ipynb)**  
-  Based on TF-IDF vectorization and cosine similarity.
-
-- **[Fraud Detection System](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Anomaly_Detection_in_card_fraud_detection.ipynb))**  
-  Detects anomalies in transaction patterns.
-
-- **[AI in Recruitment;Predictive Hiring Model](https://github.com/OlekanmaVictoria/Artificial-intelligence-Data-science-Portfolio/blob/main/Predictive_Hiring_Model.ipynb)**  
- predict hiring decisions based on candidate attributes
-  
+### 🏥 MoPT Clinical AI POC
+Adaptive clinical training simulation platform for MoPT Limited.
+Real-time difficulty adjustment, GPT-4 supervisor feedback,
+Skills Index tracking, clinical scenarios across Paediatrics,
+Neonatology and Emergency Medicine.
+**Stack:** Python · GPT-4 · scikit-learn · Plotly · Streamlit
+🔗 [GitHub](https://github.com/OlekanmaVictoria/MOPT_CLINICAL_AI)
 
 ---
-## 🗣️ Chatbot Demo
 
-Built a Dialogflow-based conversational agent.  
-👉 [Try it out here](https://console.dialogflow.com/api-client/demo/embedded/bcecbfef-6abd-4b1b-b9a0-6640d963b265)
-Voice AI-MIRASPEAK
-👉 [Try it out here]https://huggingface.co/spaces/olekanmavictoria/miraspeaks
+### 🤖 DataForge — AI Data Science Tutor
+8-agent orchestrated pipeline. Cleans, analyses, visualises,
+trains ML models and teaches the user simultaneously.
+284,000 rows processed in 20 seconds.
+**Stack:** Python · LangChain · GPT-4 · scikit-learn · 
+          Plotly · YouTube API · Tavily · Streamlit
 
-## 🧰 Tools & Tech Stack
+---
 
-`Python` | `TensorFlow` | `Keras` | `Scikit-learn` | `Hugging Face Transformers`  
-`LangChain` | `Streamlit` | `FastAPI` | `Docker` | `Git` | `AWS/GCP` | `Colab`|Openai
+### 🤰 Prep Mum — AI Pregnancy Companion
+Conversational AI health companion with week-aware responses,
+trimester tracking, symptom detection, and hard clinical
+safety guardrails.
+**Stack:** Python · GPT-4o-mini · Streamlit
+
+---
+
+### 📋 AI Project Manager — Microsoft Copilot Studio
+AI agent that creates, assigns, updates, and completes
+real tasks inside Microsoft Planner through natural
+conversation. Fully connected to Microsoft 365.
+**Stack:** Microsoft Copilot Studio · Power Automate · 
+          Microsoft 365
+
+---
+
+### 🎙️ MIRA_SPEAKS — Voice AI Assistant
+Open-source neural TTS voice assistant built on
+Coqui TTS and HiFi-GAN. Live on Hugging Face Spaces.
+**Stack:** Python · Coqui TTS · HiFi-GAN · Streamlit
+👉 [Try it live](https://huggingface.co/spaces/olekanmavictoria/miraspeaks)
+
+---
+
+### 📄 RAG Resume Screening Tool
+Full-stack RAG pipeline for intelligent resume screening.
+Token-aware chunking, batched embeddings, Pinecone vector
+store, LLM match scoring, conversation memory, 
+Dockerised backend.
+**Stack:** Node.js · TypeScript · Express · React · 
+          OpenAI · Pinecone · Docker
+
+---
+
+### 🧬 Cancer Marker Segmentation (CK8/18, Ki67)
+Medical imaging project for tumour morphology analysis.
+Image segmentation and classification of cancer markers.
+**Stack:** Python · TensorFlow · Keras · OpenCV
+🔗 [Notebook](https://github.com/OlekanmaVictoria/...)
+
+---
+
+### 💼 AI Recruitment Prediction Model
+ML hiring prediction model with SHAP explainability.
+Analyses candidate attributes, surfaces key decision
+factors, addresses AI fairness.
+**Stack:** Python · scikit-learn · SHAP · pandas
+🔗 [Notebook](https://github.com/OlekanmaVictoria/...)
+
+---
+
+### 🔍 Fraud Detection System
+Anomaly detection in transaction patterns for
+credit card fraud identification.
+**Stack:** Python · scikit-learn · pandas
+🔗 [Notebook](https://github.com/OlekanmaVictoria/...)
+
+---
+### 💬 Dialogflow Conversational Agent
+A conversational AI agent built using Google Dialogflow.
+Designed for natural language understanding and 
+intent-based dialogue management.
+**Stack:** Google Dialogflow · NLU · Conversational Design
+👉 [Try it live](https://console.dialogflow.com/api-client/demo/embedded/bcecbfef-6abd-4b1b-b9a0-6640d963b265)
+
+## 🧰 Tech Stack
+
+**AI/ML:** Python · TensorFlow · Keras · scikit-learn · 
+           Hugging Face · LangChain · OpenAI · Whisper ·
+           Coqui TTS · HiFi-GAN · SHAP
+
+**Production:** FastAPI · Docker · CI/CD · AWS · Azure ·
+               Databricks · MongoDB · PostgreSQL · Pinecone
+
+**Automation:** Microsoft Copilot Studio · Power Automate ·
+               Make · Zapier · Microsoft 365
+
+**Frontend:** Streamlit · React · TypeScript
+
+---
+
+## 📊 Results That Matter
+
+- ✅ 70% reduction in reporting time — Zummit Africa
+- ✅ Full elimination of manual note-writing — MAP Systems
+- ✅ 284,000 rows processed in 20 seconds — DataForge
+- ✅ Production clinical AI deployed for real healthcare clients
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-✅ LLMs & Chatbot Development  
-✅ AI Agents & Task Automation  
-✅ Imaging & Diagnostic Models  
-✅ MLOps, Deployment & Monitoring 
-✅ Finance AI & AI for Social Good and Health Equity
+✅ LLMs & Agentic AI Systems
+✅ Healthcare AI & Clinical Applications
+✅ Voice AI & Real-Time Systems
+✅ Business Automation & Workflow Intelligence
+✅ MLOps & Production Deployment
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- **GitHub**: [@OlekanmaVictoria] https://github.com/OlekanmaVictoria 
-- **LinkedIn**: [Olekanma Chinonso Victoria](https://www.linkedin.com/in/olekanma-chinonso-5b9782199/)  
-- **Email**: chinonsovictoria80@gmail.com
+- **LinkedIn:** [Olekanma Chinonso Victoria](https://www.linkedin.com/in/olekanma-chinonso-5b9782199/)
+- **Streamlit:** [Live Projects](https://share.streamlit.io/user/olekanmavictoria)
+- **Hugging Face:** [MIRA_SPEAKS](https://huggingface.co/spaces/olekanmavictoria/miraspeaks)
+- **Email:** chinonsovictoria80@gmail.com
 
----Ps.I love swimming,traveling,Reading,researching and Coding.
+---
 
-> _“My mission is to build intelligent, ethical, and accessible AI systems that make a real-world impact.”_
+> "I build intelligent, ethical, and production-grade AI 
+> systems that make a real-world impact."
+
+_Currently completing MSc AI at Northumbria University London
+whilst building production AI systems. Open to part-time 
+AI engineering and automation opportunities._
